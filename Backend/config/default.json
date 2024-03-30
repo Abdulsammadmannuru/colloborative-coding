@@ -1,0 +1,6 @@
+ {
+      "mongoURI": "mongodb+srv://abdulsharma120:project1234@mern.kdthzvf.mongodb.net/?retryWrites=true&w=majority&appName=MERN",
+      "jwtSecret":"abubcmASDeujhaIImbahgtQQwty"
+ }
+  
+  
